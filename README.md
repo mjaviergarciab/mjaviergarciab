@@ -1,7 +1,7 @@
 Hi!
 
 My name is Javier, and,
-I'm a **looker focused on details**, that is why most of the time I* crave to know what is behind the things that we all see*. In fact, that is the reason that lead me to this IT area, the will to know what data can say about things.
+I'm a **looker focused on details**, that is why most of the time I *crave to know what is behind the things that we all see*. In fact, that is the reason that lead me to this IT area, the will to know what data can say about things.
 
 A little summarry about me:
 
